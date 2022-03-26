@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "howler": "2.2.3",
-    "imagesloaded": "4.1.4",
+    "imagesloaded": "5.0.0",
     "lodash.debounce": "4.0.8",
     "queryparams": "1.2.2",
     "screenfull": "5.2.0"
